@@ -40,7 +40,7 @@ Delete any existing installed version of this mod, then drop the PartOverhaulInt
 
 ### Support
 
-Report any bugs, issues, requests, or suggestions via [GitHub] ().
+Report any bugs, issues, requests, or suggestions via [GitHub] (https://github.com/LouisB3/PartOverhaulIntegration).
 
 ### License
 
