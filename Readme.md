@@ -44,4 +44,4 @@ Report any bugs, issues, requests, or suggestions via [GitHub](https://github.co
 
 ### License
 
-Part Overhaul Integration by LouisB3 is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Part Overhaul Integration by LouisB3 is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
