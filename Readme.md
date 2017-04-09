@@ -1,15 +1,15 @@
 Part Overhaul Integration
 ===
 
-The Part Overhauls mod was published by Squad during the KSP 1.2 Prerelease to showcase the new PartUpgrade feature and to preview the planned [Rocket Engine Overhaul] (http://i.imgur.com/iINdJyL.jpg). It adds two new engines and refreshes the visual appearance of several existing 1.25m parts.
+The Part Overhauls mod was published by Squad during the KSP 1.2 Prerelease to showcase the new PartUpgrade feature and to preview the planned [Rocket Engine Overhaul](http://i.imgur.com/iINdJyL.jpg). It adds two new engines and refreshes several existing 1.25m parts.
 
 This is a set of configurations to better integrate the overhauled parts into the game by hiding the old (now redundant) stock parts and addressing several related issues.
 
 ### Dependencies
 
 Required, not included:
-- [PartOverhauls] (http://kerbalspaceprogram.com/files/PartOverhauls.zip) by Porkjet/Squad
-- [ModuleManager] (http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-274-november-14th-better-late-than-never/) by sarbian
+- [PartOverhauls](http://kerbalspaceprogram.com/files/PartOverhauls.zip) by Porkjet/Squad
+- [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-274-november-14th-better-late-than-never/) by sarbian
 
 ### Installation
 
@@ -40,7 +40,7 @@ Delete any existing installed version of this mod, then drop the PartOverhaulInt
 
 ### Support
 
-Report any bugs, issues, requests, or suggestions via [GitHub] (https://github.com/LouisB3/PartOverhaulIntegration).
+Report any bugs, issues, requests, or suggestions via [GitHub](https://github.com/LouisB3/PartOverhaulIntegration).
 
 ### License
 
