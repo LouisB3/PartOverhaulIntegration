@@ -28,6 +28,7 @@ Delete any existing installed version of this mod, then drop the PartOverhaulInt
  - Compact engine variants (not published) would get a -C suffix
  - Old part variants get a -Z suffix
 - FilterExtensions support (overhauled parts are added to the Squad category)
+- A missing thrust upgrade for the Heavy Rocketry node has been implemented
 
 ### Known Issues
 
