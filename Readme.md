@@ -25,19 +25,13 @@ Delete any existing installed version of this mod, then drop the PartOverhaulInt
 - Part variants are renamed to distinguish between them
  - Attachment ring engine variants get a -A suffix
  - Boattail engine variants get a -B suffix
- - Compact engine variants (not published) would get a -C suffix
- - Old part variants get a -Z suffix
-- FilterExtensions support (overhauled parts are added to the Squad category)
+ - Deprecated stock parts get a -Z suffix
+ - Deprecated PartOverhaul parts get a -PO suffix
 - A missing thrust upgrade for the Heavy Rocketry node has been implemented
-
-### Known Issues
-
-- The Mk1 Command Pod has a curved surface protruding over the bottom node, creating visual clipping issues with heat shields (or other parts) attached below
 
 ### Feature Wishlist
 
-- Flatten the bottom of the Mk1 Command Pod to fix visual clipping issues
-- Use B9PartSwitch or similar to convert variants from separate to switchable parts
+- Convert variants from separate to switchable parts
 
 ### Support
 
