@@ -1,37 +1,24 @@
-Part Overhaul Integration
+Part Overhaul Balance Integration
 ===
 
-The Part Overhauls mod was published by Squad during the KSP 1.2 Prerelease to showcase the new PartUpgrade feature and to preview the planned [Rocket Engine Overhaul](http://i.imgur.com/iINdJyL.jpg). It adds two new engines and refreshes several existing 1.25m parts.
+The Part Overhauls mod was published by Squad during the KSP 1.2 Pre-Release to showcase the new PartUpgrade feature and to preview the planned [Rocket Engine Overhaul](http://i.imgur.com/iINdJyL.jpg).
 
-This is a set of configurations to better integrate the overhauled parts into the game by hiding the old (now redundant) stock parts and addressing several related issues.
+The visual overhaul has since been overtaken by and included in the [Restock project](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/). POBI aims to incorporate the PartUpgrade-based rebalance for 1.25m engines into the stock/Restock+ engines, thereby combining gameplay-optimized stats with the best available visuals.
 
 ### Dependencies
 
 Required, not included:
-- [PartOverhauls](http://kerbalspaceprogram.com/files/PartOverhauls.zip) by Porkjet/Squad
-- [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-274-november-14th-better-late-than-never/) by sarbian
+- [Restock](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/)
+- [Restock+](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/)
+- [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-274-november-14th-better-late-than-never/)
 
 ### Installation
 
 Delete any existing installed version of this mod, then drop the PartOverhaulIntegration folder into your GameData folder wherever KSP is installed.
 
-### Features
+### Compatibility
 
-- Old versions of overhauled parts are hidden
-  - They are removed from the tech tree. In existing saves, this does not affect nodes already purchased
-  - They are removed from all categories in the VAB and SPH
-  - They are retained in the game files so active craft will still function normally
-- Testing contracts are added to overhauled parts (copied from old part versions)
-- Part variants are renamed to distinguish between them
- - Attachment ring engine variants get a -A suffix
- - Boattail engine variants get a -B suffix
- - Deprecated stock parts get a -Z suffix
- - Deprecated PartOverhaul parts get a -PO suffix
-- A missing thrust upgrade for the Heavy Rocketry node has been implemented
-
-### Feature Wishlist
-
-- Convert variants from separate to switchable parts
+- If PartOverhauls is present, those parts will receive bugfixes and will be hidden. This is to provide backwards compatibility.
 
 ### Support
 
