@@ -8,9 +8,13 @@ The visual overhaul has since been overtaken by and included in the [Restock pro
 ### Dependencies
 
 Required, not included:
+- [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-274-november-14th-better-late-than-never/)
+
+Recommended, not required:
 - [Restock](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/)
 - [Restock+](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/)
-- [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-274-november-14th-better-late-than-never/)
+
+If Restock+ is not installed, the Valiant and Pug engines will not be available.
 
 ### Installation
 
