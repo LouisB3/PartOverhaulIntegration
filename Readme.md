@@ -20,10 +20,6 @@ If Restock+ is not installed, the Valiant and Pug engines will not be available.
 
 Delete any existing installed version of this mod, then drop the PartOverhaulIntegration folder into your GameData folder wherever KSP is installed.
 
-### Compatibility
-
-- If PartOverhauls is present, those parts will receive bugfixes and will be hidden. This is to provide backwards compatibility.
-
 ### Support
 
 Report any bugs, issues, requests, or suggestions via [GitHub](https://github.com/LouisB3/PartOverhaulIntegration).
